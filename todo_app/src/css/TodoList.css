@@ -1,0 +1,13 @@
+.todo_list{
+    width: 26em;
+    background-color: hsl(254, 21%, 88%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.2em;
+    text-align: center;
+    padding: 1em;
+    border: none;
+    border-radius: 0.3em;
+}
+
