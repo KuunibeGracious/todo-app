@@ -1,0 +1,13 @@
+footer button{
+    background-color: hsl(241, 48%, 57%);
+    color: hsl(0, 0%, 100%);
+    margin-left: 0.5em;
+    margin-top: 1em;
+    border: none;
+    border-radius: 0.3em;
+    padding: 0.5em 0.5em;
+}
+
+.footer_note{
+    color: hsl(0, 0%, 52%);
+}
