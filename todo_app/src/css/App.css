@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: hsl(60, 4%, 5%);
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4em 0 0 0;
+    height: auto;
+    width: 100%;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.app-container{
+    /* border: solid #000; */
+    /* border-radius: 0.3em; */
+    background-color: hsl(0, 2%, 88%);
+    padding: 0.6em;
+    height: auto;
+    margin-bottom: 2em;
+}
